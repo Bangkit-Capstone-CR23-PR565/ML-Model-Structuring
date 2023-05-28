@@ -32,9 +32,9 @@ Currently, there are still many SMEs that have difficulties in promoting their p
 **Machine Learning** 
 
 In this project we have made two recommendation models and a data scraper:
-- Tags Recommendation model
+- Search Recommendation model
 
-    This model recommends events to user based on search query of events tags.
+    This model recommends events to user based on search query.
 
 - User Recommendation model
 
