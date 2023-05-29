@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Event.ku Machine Learning Model Structuring</h1>
+    <h1>Event.mu Machine Learning Model Structuring</h1>
 </div>
 <div align="center">
 
@@ -42,7 +42,7 @@ In this project we have made two recommendation models and a data scraper:
 
 - Scraper
 
-    This script is used to parse and gather data using a web scraper library.
+    This script is used to parse and gather data.
 
 # How to use
 ## Prerequisites
