@@ -3,10 +3,10 @@
 </div>
 <div align="center">
 
-![ML Contributors](https://img.shields.io/github/contributors/Bangkit-Capstone-CR23-PR565/ML-Model-Structuring?color=red)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Bangkit-Capstone-CR23-PR565/ML-Model-Structuring)
+![Contributors](https://img.shields.io/github/contributors/Bangkit-Capstone-CR23-PR565/ML-Model-Structuring?color=red)
+![Commit activity](https://img.shields.io/github/commit-activity/m/Bangkit-Capstone-CR23-PR565/ML-Model-Structuring)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Bangkit-Capstone-CR23-PR565/ML-Model-Structuring)
-![GitHub forks](https://img.shields.io/github/forks/Bangkit-Capstone-CR23-PR565/ML-Model-Structuring)
+![Total lines](https://img.shields.io/tokei/lines/github/Bangkit-Capstone-CR23-PR565/ML-Model-Structuring)
 </div>
 
 # Team Profile
