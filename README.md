@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Event.mu Machine Learning Model Structuring</h1>
+    <h1>boothUP! Machine Learning Model Structuring</h1>
 </div>
 <div align="center">
 
